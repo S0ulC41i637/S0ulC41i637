@@ -1,5 +1,5 @@
 - 👋 Hi, I’m <strong>@S0ulC41i637</strong>
-- 👀 I’m interested in AI
+- 👀 I’m interested in <strong>AI</strong>
 - 🌱 I’m currently learning <strong>Python and HTML</strong>
 
 <!--- I'm a lil busy right now, I'll finish this later,
